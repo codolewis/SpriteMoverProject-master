@@ -1,3 +1,3 @@
 # SpriteMoverProject
 
-This is my first Project every created in unity!
+This is my first Project ever created in unity and my first repository as well!
